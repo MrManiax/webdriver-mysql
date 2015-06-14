@@ -1,6 +1,6 @@
-import googleTest
+import googleTest as web
 import testdb
 
 
 if __name__ == '__main__':
-    query_google('bild')
+    web.query_google('bild')
